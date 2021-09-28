@@ -38,7 +38,7 @@
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "Ts_bots", 
+      "value": "kaunglayzz", 
       "required": false
     }        
     
