@@ -22,19 +22,19 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "6226131"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "02b6c71fee201da9cda27dc0a56483c6"
     },
     "ADMIN_ID": {
       "description": "Your user ID like 1223445566",
-      "value": ""      
+      "value": "1731513098"      
     },
     "CAPTION_POSITION": {
       "description": "Position of your caption [Enter top or bottom or nil]",
-      "value": ""
+      "value": "bottom"
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
